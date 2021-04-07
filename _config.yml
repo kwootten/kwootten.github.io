@@ -11,7 +11,7 @@ twitter_username:
 github_username:  kwootten
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
