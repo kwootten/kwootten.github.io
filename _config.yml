@@ -12,7 +12,7 @@ github_username:  kwootten
 
 # Build settings
 #theme: jekyll-theme-midnight
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
