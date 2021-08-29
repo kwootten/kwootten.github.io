@@ -6,4 +6,3 @@ layout: home
 ---
 
 
-TEST 2
